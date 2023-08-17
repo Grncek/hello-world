@@ -33,7 +33,8 @@
 
    <h1> Thankyou, Happy Learning </h1>
    
-   <h1> SRÁGORO VOLEELELE </h1>
+   <h1> SRAGORO VOLEELELE </h1>
+   <h1> novy push 1.0 </h1>
 
   
 </form>
